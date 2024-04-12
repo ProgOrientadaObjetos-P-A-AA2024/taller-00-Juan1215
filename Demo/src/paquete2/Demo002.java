@@ -6,7 +6,7 @@ import java.util.Scanner;
 import paquete3.Informacion;
 import paquete1.Mensaje;
 
-public class Demo {
+public class Demo002 {
     public static void main(String[] args) {
         
         Scanner entrada = new Scanner(System.in);
